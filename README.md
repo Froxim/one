@@ -1,2 +1,3 @@
 # https://froxim.github.io/one/
-Первый сайт написанный с макета Figma: https://inlnk.ru/qVQYY
+Первый сайт написанный с макета Figma
+Ссылка на макет: https://inlnk.ru/qVQYY
